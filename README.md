@@ -4,7 +4,7 @@ Google Analyticsのユニバーサルアナリティクス時代はビューが�
 
 データポータルでダッシュボードを作成しているのですが、複数のGA4プロパティのレポートデータを1つにまとめる必要があったので、Google Apps Scriptで全GA4プロパティのレポートデータを取得して、Google Sheetsにまとめるスクリプトを作成しました。
 
-最初に[Analytics Data APIサービス](https://developers.google.com/apps-script/advanced/analyticsdata)を追加する必要がありますが、今回は省略します。
+最初に[Analytics Data APIサービス](https://developers.google.com/apps-script/advanced/analyticsdata)を追加する必要がありますが、追加方法については今回は省略します。
 
 Googleシート＞拡張＞App ScriptでGoogle Apps Scriptを開いてプログラムをコピペしてください。
 
