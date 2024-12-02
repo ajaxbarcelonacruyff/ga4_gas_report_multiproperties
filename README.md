@@ -7,6 +7,8 @@ Google Analyticsのユニバーサルアナリティクス時代はビューが�
 
 最初に[Analytics Data APIサービス](https://developers.google.com/apps-script/advanced/analyticsdata)を追加する必要がありますが、今回は省略します。
 
+Googleシート＞拡張＞App ScriptでGoogle Apps Scriptを開いてプログラムをコピペしてください。
+
 ## データ取得部分
 
 細かいことは省略しますが、下記の指定が可能です。
